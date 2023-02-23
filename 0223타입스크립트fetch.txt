@@ -1,0 +1,12 @@
+﻿json-server 라이브러리 사용하기
+json파일을 사용하여 간단한 시뮬레이션을 위한 REST API Mock server구축할수있는 툴.
+설치방법
+npm install -g json-server
+구동하기
+json-server --watch data.json파일 경로 --port 8080
+json-server --watch ./src/db/data.json --port 3003
+fetch전송
+
+
+타입 스타일드컴포넌트 
+npm install @types/styled-components

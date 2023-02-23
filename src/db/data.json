@@ -1,0 +1,94 @@
+{
+  "subjects": [
+    {
+      "id": 1,
+      "title": "javascript"
+    },
+    {
+      "id": 2,
+      "title": "php"
+    },
+    {
+      "id": 3,
+      "title": "react"
+    },
+    {
+      "title": "mysql",
+      "id": 4
+    }
+  ],
+  "functions": [
+    {
+      "id": 1,
+      "subjects": 1,
+      "name": "map()",
+      "type": "array",
+      "syntax": "배열변수.map(li=>li+1)",
+      "desc": "배열요소의 형태를 변경하여 새로운 배열로 리턴"
+    },
+    {
+      "id": 2,
+      "subjects": 1,
+      "name": "filter()",
+      "type": "array",
+      "syntax": "배열변수.filter(li=>li>1)",
+      "desc": "배열오소중 조건에 맞는 요소만 새로운 배열로 리턴"
+    },
+    {
+      "id": 3,
+      "subjects": 1,
+      "name": "replace()",
+      "type": "string",
+      "syntax": "문자열.replace('a','b')",
+      "desc": "문자열에있는 a를 b로 변경"
+    },
+    {
+      "id": 4,
+      "subjects": 2,
+      "name": "strlen()",
+      "type": "string",
+      "syntax": "strlen(문자열)",
+      "desc": "문자열길이를 리턴해줌"
+    },
+    {
+      "id": 5,
+      "subjects": 3,
+      "name": "var_dump()",
+      "type": "모든타입",
+      "syntax": "var_dump(문자열)",
+      "desc": "문자열길이를 리턴해줌"
+    },
+    {
+      "id": 6,
+      "subjects": 3,
+      "name": "var_dump()",
+      "type": "모든타입",
+      "syntax": "var_dump(문자열)",
+      "desc": "문자열길이를 리턴해줌"
+    },
+    {
+      "id": 7,
+      "subjects": 3,
+      "name": "useState()",
+      "type": "훅함수",
+      "syntax": "const [state,setState] = useState(초기값)",
+      "desc": "상태값과 상태를 업데이트 할수있는 함수를 배열로 리턴"
+    },
+    {
+      "subjects": 3,
+      "name": "sa",
+      "type": "fdsa",
+      "syntax": "fdsa",
+      "desc": "zxvvxcz",
+      "id": 8
+    },
+    {
+      "subjects": 3,
+      "name": "dddd",
+      "type": "cccc",
+      "syntax": "ssss",
+      "desc": "aaaa",
+      "id": 9
+    }
+  ]
+}
